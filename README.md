@@ -11,8 +11,8 @@ Hi! My name is Amr 🥷🏻 <br/>
 <div align="center">
 <div style="display: flex; flex-direction: column; align-items: center;">
     <div style="display: flex; justify-content: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=AmrYasserSaber&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub Stats" style="margin-right: 10px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrYasserSaber&theme=github_dark&hide_border=false" alt="GitHub Streak Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=AmrYasserSaber&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub Stats" style="margin-right: 10px;">
     </div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrYasserSaber&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="margin-bottom: 10px;">
 </div>
