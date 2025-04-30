@@ -13,8 +13,8 @@ Hi! My name is Amr 🥷🏻 <br/>
     <div style="display: flex; justify-content: center;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrYasserSaber&theme=github_dark&hide_border=false" alt="GitHub Streak Stats">
       <img src="https://github-readme-stats.vercel.app/api?username=AmrYasserSaber&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub Stats" style="margin-right: 10px;">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmrYasserSaber&" alt="AmrYasserSaber" />
     </div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrYasserSaber&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="margin-bottom: 10px;">
 </div>
 </div>
 <h3 align="left">
