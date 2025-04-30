@@ -14,7 +14,9 @@
     <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
       <img src="https://github-readme-stats.vercel.app/api?username=AmrYasserSaber&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub Stats"/>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmrYasserSaber&theme=github-dark&hide_border=false" alt="GitHub Streak"/>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amryassersaber&theme=github-dark&hide_border=false" alt="GitHub Streak"/>
+     <a href="https://git.io/streak-stats" target="_blank">
+      <img src="https://streak-stats.demolab.com/?user=AmrYasserSaber&theme=dark" alt="GitHub Streak"/>
+    </a>
     </div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrYasserSaber&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="margin-top: 1rem;"/>
   </div>
