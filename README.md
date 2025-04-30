@@ -7,19 +7,13 @@
   Full Stack Developer | Open Source Enthusiast
 </h3>
 
-<p align="center">
-  🔭 Currently working on MERN stack applications<br/>
-  🌱 Learning DevOps & Cloud Technologies<br/>
-  ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
-</p>
-
 <br/>
 
 <div align="center">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
       <img src="https://github-readme-stats.vercel.app/api?username=AmrYasserSaber&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub Stats"/>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmrYasserSaber&theme=github-dark&hide_border=false" alt="GitHub Streak"/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amryassersaber&theme=github-dark&hide_border=false" alt="GitHub Streak"/>
     </div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrYasserSaber&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="margin-top: 1rem;"/>
   </div>
